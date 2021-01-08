@@ -3,7 +3,6 @@ permalink: /members/
 title: "メンバー"
 ---
 
-
 ### 教員
 
 - 准教授 [小林和博](http://kaz-kobayashi.github.io/)
