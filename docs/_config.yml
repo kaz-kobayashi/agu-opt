@@ -63,6 +63,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Scrapbox"
+      url: "https://scrapbox.io/mathopt-agu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
