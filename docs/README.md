@@ -2,7 +2,6 @@
 permalink: /home/
 title: ""
 author_profile: true
-excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/saga.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
