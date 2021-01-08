@@ -65,6 +65,7 @@ author:
       url: "https://"
     - label: "Scrapbox"
       url: "https://scrapbox.io/mathopt-agu"
+      icon: "https://gyazo.com/5f93e65a3b979ae5333aca4f32600611"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
