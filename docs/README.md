@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+excerpt: " "
 header:
     overlay_image: /assets/images/saga.png
 ---
