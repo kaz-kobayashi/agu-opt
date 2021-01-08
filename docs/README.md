@@ -2,6 +2,8 @@
 permalink: /
 title: ""
 author_profile: true
+header:
+    overlay_image: /assets/images/saga.png
 ---
 
 青山学院大学理工学部経営システム工学科　数理最適化研究室（小林研究室）です。
