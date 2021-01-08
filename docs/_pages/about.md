@@ -8,6 +8,6 @@ title: "About"
 
 このページでは，学生の研究プロジェクトと講義に関する内容を述べています．教員（小林，高澤）の研究については個人のページを参照ください．
 
-准教授 [小林和博](http://kaz-koabyashi.github.io/)
+准教授 [小林和博](http://kaz-kobayashi.github.io/)
 
 助教 高澤陽太朗
